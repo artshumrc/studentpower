@@ -1,0 +1,165 @@
+[ {
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.5.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "title" : "default black",
+  "style" : [ {
+    "selector" : "node",
+    "css" : {
+      "background-opacity" : 1.0,
+      "width" : 15.0,
+      "font-family" : "SansSerif",
+      "font-weight" : "normal",
+      "border-width" : 0.0,
+      "text-valign" : "bottom",
+      "text-halign" : "right",
+      "font-size" : 12,
+      "shape" : "ellipse",
+      "text-opacity" : 1.0,
+      "background-color" : "rgb(255,255,255)",
+      "color" : "rgb(204,204,204)",
+      "border-color" : "rgb(0,153,0)",
+      "border-opacity" : 1.0,
+      "height" : 15.0,
+      "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[ id = '72' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '78' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '84' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '85' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '95' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '107' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '118' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '129' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '139' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '143' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '149' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '153' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '157' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '165' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '168' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '172' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '179' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '193' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '195' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '199' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '203' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node[ id = '211' ]",
+    "css" : {
+      "background-color" : "rgb(255,0,51)"
+    }
+  }, {
+    "selector" : "node:selected",
+    "css" : {
+      "background-color" : "rgb(255,255,0)"
+    }
+  }, {
+    "selector" : "edge",
+    "css" : {
+      "line-color" : "rgb(0,153,0)",
+      "source-arrow-color" : "rgb(0,0,0)",
+      "font-family" : "Dialog",
+      "font-weight" : "normal",
+      "opacity" : 1.0,
+      "target-arrow-color" : "rgb(0,0,0)",
+      "target-arrow-shape" : "none",
+      "font-size" : 10,
+      "content" : "",
+      "text-opacity" : 1.0,
+      "color" : "rgb(0,0,0)",
+      "width" : 2.0,
+      "source-arrow-shape" : "none",
+      "line-style" : "solid"
+    }
+  }, {
+    "selector" : "edge:selected",
+    "css" : {
+      "line-color" : "rgb(255,0,0)"
+    }
+  } ]
+} ]
